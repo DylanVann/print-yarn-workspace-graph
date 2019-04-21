@@ -1,0 +1,11 @@
+{
+  "name": "print-yarn-workspace-graph",
+  "version": "1.0.0",
+  "repository": "git@github.com:DylanVann/print-yarn-workspace-graph.git",
+  "license": "MIT",
+  "author": "Dylan Vann <dylan@dylanvann.com>",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
